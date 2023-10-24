@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "p34OOiP32PDB3gzAtFIu5CG/APkBMn9wCSKfCSY2KIQ8UGEMyJkZdU5M63QdI38XjYpR2Km1mmoIEmUNTy/liA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\victor.porto\\Documents\\Redis\\Mensageria_C#\\Produtor\\Produtor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victor.porto\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\victor.porto\\.nuget\\packages\\stackexchange.redis\\2.6.122\\stackexchange.redis.2.6.122.nupkg.sha512",
+    "C:\\Users\\victor.porto\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
